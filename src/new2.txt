@@ -1,2 +1,4 @@
 this is a new2.txt
 
+新加一条记录
+
