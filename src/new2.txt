@@ -2,3 +2,4 @@ this is a new2.txt
 
 新加一条记录
 
+新加两条记录
